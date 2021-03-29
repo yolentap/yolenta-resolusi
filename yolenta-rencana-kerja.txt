@@ -8,4 +8,6 @@ RENCANA KERJA YOLENTA
   * Belajar Merge
     ^ Melakukan merge
 - Belajar github 
+  * Pull
+  * Pushh
 - Membuat web
