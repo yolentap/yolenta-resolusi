@@ -1,0 +1,5 @@
+RENCANA KERJA YOLENTA 
+
+- Belajar git 
+- Belajar github 
+- Membuat web
