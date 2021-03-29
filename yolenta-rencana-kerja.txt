@@ -2,7 +2,9 @@ RENCANA KERJA YOLENTA
 
 - Belajar git 
   * Belajar Branch 
+    ^ Membuat branch
   * Belajar checkout
   * Belajar Merge
+    ^ Melakukan merge
 - Belajar github 
 - Membuat web
