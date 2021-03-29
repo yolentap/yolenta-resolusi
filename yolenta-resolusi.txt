@@ -2,3 +2,5 @@ YOLENTA RESOLUSI
 - Konsisten untuk belajar git dan github
 - Membuat catatan pembelajaran 
 - Mencari teman diskusi
+- Membuat web dengan git dan github
+- Berkolaborasi dengan teman 
